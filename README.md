@@ -1,2 +1,9 @@
-# Wakfu-Chat-Translator
-Shows the chat in wakfu by anakma inside of it in english
+# A myapp Flet app
+
+An example of a minimal Flet app.
+
+To run the app:
+
+```
+flet run [app_directory]
+```
