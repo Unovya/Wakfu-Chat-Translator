@@ -1,9 +1,5 @@
-# A myapp Flet app
+# Wakfu Chat Translator
 
-An example of a minimal Flet app.
+A simple tool that translates The chat from Anakma's game "Wakfu" Into english due to the large amount of Non english players!
 
-To run the app:
-
-```
-flet run [app_directory]
-```
+simple run app.py
